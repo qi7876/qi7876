@@ -1,7 +1,7 @@
 ```
-Hi, I’m Qi!
+Hi, I’m qi!
 
-Currently working on multimodal large models and streaming video understanding.
+Currently working on efficient video understanding.
 
 Blog: qi7876.github.io
 Email: qi7876@outlook.com
