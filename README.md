@@ -1,10 +1,10 @@
 ```
-Hi, I’m qi!
+Hi, I’m Qi!
 
-Currently working on efficient video understanding.
+Currently working on Multimodal LLMs, Agentic AI, and ML Systems.
 
 Blog: qi7876.github.io
-Email: qi7876@outlook.com
+Email: qi7876@gmail.com
 
-Let's dev the future!
+"Stay Hungry. Stay Foolish."
 ```
